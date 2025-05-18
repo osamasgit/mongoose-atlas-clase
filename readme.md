@@ -124,7 +124,7 @@ module.exports = User;
 ## Paso 4: Rutas y endpoints
 Por último crearemos las rutas y en ellas los diferentes endpoints(CRUD).
 
-Para ello creamos la carpeta routes y en ella el archivo users.js que hiremos completando con los diferentes endpoints:
+Para ello creamos la carpeta routes y en ella el archivo users.js que iremos completando con los diferentes endpoints:
 
 Ejemplo para el endpoint de crear un usuario nuevo:
 
